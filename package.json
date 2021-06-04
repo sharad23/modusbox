@@ -1,0 +1,27 @@
+{
+  "name": "modos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "joi": "^14.3.1",
+    "lib-logger": "^2.0.5",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mysql2": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "proxyquire": "^2.1.3"
+  }
+}

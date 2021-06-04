@@ -1,0 +1,5 @@
+db_pass.txt
+node_modules/
+Dockerfile
+docker-compose.yml
+README.md
