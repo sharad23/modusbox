@@ -22,6 +22,7 @@ This app is used to store the company symbols and show thier tickers and price h
 - Prepared staements are being used in order to prevent from SQL injections
 - Gracefull shutdown are being implemented
 - Some Unit test are being implemented 
+- Secrets are being passed for mysql password
 
 ### POSTMAN DOC
 https://www.getpostman.com/collections/077775bd6901de9cf154
