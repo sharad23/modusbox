@@ -28,8 +28,8 @@ This app is used to store the company symbols and show thier tickers and price h
 https://www.getpostman.com/collections/077775bd6901de9cf154
 
 ### Installation
-sudo docker-compose build
-sudo docker-compose -d up
+- sudo docker-compose build
+- sudo docker-compose -d up
 
 
 
